@@ -1,3 +1,3 @@
 # event-planner
 
-## this website for the event planner company
+## this website for the event's company planner
