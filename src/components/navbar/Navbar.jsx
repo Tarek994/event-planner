@@ -3,7 +3,9 @@ import navbar from "./navbar.css";
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div className='main-nav'>
+
+    </div>
   )
 }
 
