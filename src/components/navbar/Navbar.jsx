@@ -4,8 +4,8 @@ import "./navbar.css";
 const Navbar = () => {
   return (
     <div className="main-nav">
-      <div className="nav">
-        <div className="right"></div>
+      <div className="bar">
+        <div className="right">LOGO</div>
         <div className="left">
           <ul className="list">
             <li>
