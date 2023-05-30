@@ -2,3 +2,10 @@
     width: 100%;
 }
 
+.bar{
+    margin: auto;
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
