@@ -14,6 +14,9 @@
 
 .list , a{
     list-style: none;
+    display: flex;
+
+}
 .list a {
     padding-right: 10px;
     letter-spacing: 0.8px;
