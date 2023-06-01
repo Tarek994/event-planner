@@ -4,6 +4,7 @@
 }
 
 .bar{
+    padding: 5px 0px;
     margin: auto;
     width: 70%;
     display: flex;
