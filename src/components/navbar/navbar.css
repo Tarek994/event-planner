@@ -25,11 +25,10 @@
     font-weight: bold;
     padding-right: 10px;
     letter-spacing: 0.8px;
-}
-a{
     text-decoration: none;
+    color: #184653;
 }
-.right{
+
     font-size: 2rem;
 
 }
