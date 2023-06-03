@@ -40,4 +40,12 @@
     align-items: center;
 }
 
+.menu-icon {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+    cursor: pointer;
+}
 }
