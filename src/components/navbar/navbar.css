@@ -48,4 +48,16 @@
     height: 21px;
     cursor: pointer;
 }
+
+.menu-icon.open .bar1 {
+    transform: rotate(-45deg) translate(-6px, 4px);
+}
+
+.menu-icon.open .bar2 {
+    opacity: 0;
+}
+
+.menu-icon.open .bar3 {
+    transform: rotate(45deg) translate(-6px, -4px);
+}
 }
