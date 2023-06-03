@@ -21,6 +21,8 @@
     margin-right: 15px;
 }
 
+.list li a {
+    font-weight: bold;
     padding-right: 10px;
     letter-spacing: 0.8px;
 }
