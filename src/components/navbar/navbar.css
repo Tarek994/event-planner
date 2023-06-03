@@ -3,7 +3,7 @@
     background-color: #d89770;
 }
 
-.bar{
+.bar {
     padding: 5px 0px;
     margin: auto;
     width: 70%;
@@ -17,6 +17,7 @@
     display: flex;
 
 }
+
 .list li {
     margin-right: 15px;
 }
