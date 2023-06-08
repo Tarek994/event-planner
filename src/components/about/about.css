@@ -20,8 +20,9 @@
     padding: 0rem 1rem;
 }
 
-.right .title {
-    font-size: 2rem;
+.right .caption {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
     color: #d89770;
 }
 
