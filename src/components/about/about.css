@@ -15,3 +15,7 @@
     width: 100%;
 }
 
+.about .right {
+    width: 40%;
+    padding: 0rem 1rem;
+}
