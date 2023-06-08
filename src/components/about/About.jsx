@@ -3,12 +3,20 @@ import who from "../../assets/whoWeAre.jpg";
 
 const About = () => {
   return (
-    <div id="about" className="about row col-md-12">
-      <div className="col-8 left">
-        <img className="img-fluid" src={who} alt="" />
+    <div id="about" className="about main row col-12">
+      <div className="right">
+        <h3 className="title">
+          {" "}
+          Who We Are ?<hr />{" "}
+        </h3>
+        <p className="caption">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat
+          porro sapiente ipsa accusamu Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Repellat porro sapiente ipsa accusamu
+        </p>
       </div>
-      <div className="right col-md-4">
-        <h3 className="title"> Who We Are </h3>
+      <div className="left">
+        <img className="" src={who} alt="" />
       </div>
     </div>
   );
