@@ -44,3 +44,10 @@
         font-size: 1rem;
 
     }
+
+    .about .left,
+    .about .right {
+        width: 90%;
+    }
+
+}
