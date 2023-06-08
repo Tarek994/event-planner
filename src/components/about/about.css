@@ -38,3 +38,9 @@
         margin-bottom: 2rem;
     }
 }
+
+@media (max-width: 470px) {
+    .right .caption {
+        font-size: 1rem;
+
+    }
