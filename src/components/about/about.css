@@ -6,7 +6,11 @@
     justify-content: space-between;
 }
 
-.left img {
+.about .left {
+    width: 60%;
+    padding: 0rem 1rem;
+}
+
     width: 100%;
     height: auto;
     max-width: 100%;
