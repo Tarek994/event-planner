@@ -11,9 +11,7 @@
     padding: 0rem 1rem;
 }
 
+.about .left img {
     width: 100%;
-    height: auto;
-    max-width: 100%;
-    max-height: 100%;
-  }
-  
+}
+
