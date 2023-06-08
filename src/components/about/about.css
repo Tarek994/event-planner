@@ -26,3 +26,9 @@
     color: #d89770;
 }
 
+@media (max-width: 1025px) {
+    .about {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
