@@ -1,11 +1,17 @@
- 
-const gallery = () => {
+ import { photos } from "./Images"
+
+
+import React from 'react';
+
+const Gallery = () => {
+
   return (
-    <div className='gallery'>
-      <div className="left col-8"></div>
-      <div className="right col-4"></div>
+    <div className="gallery">
+      {photos.map((image, index) => (
+        <img key={index} src={image} alt={`Image ${index + 1}`} />
+      ))}
     </div>
-  )
+  );
 }
 
-export default gallery
+export default Gallery;
