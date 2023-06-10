@@ -12,6 +12,11 @@
   color: #184653;
   font-size: 2rem;
 }
-.left{
-    background-color: aliceblue;
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 40px;
+}
 }
