@@ -3,7 +3,7 @@ import who from "../../assets/whoWeAre.jpg";
 
 const About = () => {
   return (
-    <div id="about" className="about main row col-12">
+    <div id="about" className="about">
       <div className="right">
         <h3 className="title">
           {" "}
