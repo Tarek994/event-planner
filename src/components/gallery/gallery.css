@@ -19,4 +19,9 @@
   justify-content: center;
   margin-top: 40px;
 }
+
+.gallery-item {
+  flex: 0 0 300px;
+  margin: 1.5rem;
 }
+
