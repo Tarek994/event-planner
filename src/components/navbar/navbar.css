@@ -1,7 +1,10 @@
 .main-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
-  position: relative;
-  background-color: inherit;
+  background-color: #184653;
+  z-index: 100;
 }
 
 .bar {
@@ -70,7 +73,6 @@
   background-color: #333;
   transition: all 0.3s;
 }
-
 
 @media (max-width: 768px) {
   .menu-icon {
