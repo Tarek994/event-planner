@@ -3,6 +3,10 @@
   padding-top: 5rem;
   text-align: center;
 }
+.main-gallery {
+  margin: auto;
+  max-width: 1100px;
+}
 }
 .left{
     background-color: aliceblue;
