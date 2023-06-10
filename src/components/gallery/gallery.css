@@ -1,6 +1,8 @@
-.gallery{
-    margin: auto;
-    max-width: 1100px;
+.gallery {
+  background-color: #a8643a;
+  padding-top: 5rem;
+  text-align: center;
+}
 }
 .left{
     background-color: aliceblue;
