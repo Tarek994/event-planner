@@ -4,7 +4,7 @@ import "./gallery.css";
 
 const Gallery = () => {
   return (
-    <div className="gallery">
+    <div className="gallery" id="gallery">
       <div className="main-gallery">
         <h3 className="title">Some Of Our Work</h3>
         <div className="images">
