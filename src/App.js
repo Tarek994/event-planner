@@ -4,6 +4,7 @@ import Navbar from "./components/navbar/Navbar.jsx";
 import Home from "./components/home/Home.jsx";
 import About from "./components/about/About.jsx";
 import Gallery from "./components/gallery/gallery.jsx";
+import Contact from "./components/contact/Contact.jsx";
 
 const App = () => {
   return (
@@ -14,6 +15,8 @@ const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/gallery" element={<Gallery />} />
+        <Route path="/contact" element={<Contact />} />
+
       </Routes>
     </Router>
   );
