@@ -1,4 +1,5 @@
-
+import { useForm } from "react-hook-form";
+import "./contact.css"
 
 const Contact = () => {
   return (
