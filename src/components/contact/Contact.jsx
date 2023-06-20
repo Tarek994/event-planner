@@ -2,6 +2,22 @@ import { useForm } from "react-hook-form";
 import "./contact.css"
 
 const Contact = () => {
+
+  const {
+    register,
+    trigger,
+    formState: { errors },
+  } = useForm();
+
+  const onSubmit = async (e) => {
+    const isValid = await trigger();
+    if (!isValid) {
+      e.preventDefault();
+    }
+  };
+
+
+
   return (
     <div id='contact' className='contact'>
       <div className="head">
