@@ -92,7 +92,7 @@ const Contact = () => {
             placeholder="Message"
           ></textarea>
         </div>
-        <div className="">
+        <div className="box">
           <input
             name="submit"
             type="submit"
