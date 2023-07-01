@@ -12,10 +12,10 @@ const App = () => {
       <Navbar />
       <div id="section-1"></div>
       <Routes>
-        {/* <Route path="/" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
-        <Route path="/gallery" element={<Gallery />} /> */}
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/gallery" element={<Gallery />} />
+        {/* <Route path="/contact" element={<Contact />} /> */}
       </Routes>
     </Router>
   );
