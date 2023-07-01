@@ -1,0 +1,32 @@
+.contact {
+  max-width: 1100px;
+  margin: auto;
+  padding-left: 2rem;
+}
+
+.head {
+  text-align: center;
+}
+
+.con-title {
+  color: #d89770;
+}
+
+.con-bio {
+  color: #d89770;
+}
+
+form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.box {
+  clear: both;
+}
+.message {}

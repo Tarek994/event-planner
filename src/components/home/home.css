@@ -1,0 +1,13 @@
+.home{
+    margin: auto;
+    width: 100%;
+}
+
+#home > div > div:nth-child(2) > div > ul {
+    padding-left: 0px;
+}
+.carousel .thumbs-wrapper {
+    margin: 20px;
+    text-align: center !important;
+    overflow: hidden;
+}
