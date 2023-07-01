@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/fiducha/static/css/main.315d37a7.css",
-    "main.js": "/fiducha/static/js/main.f0d30bcd.js",
-    "static/js/787.3544c18c.chunk.js": "/fiducha/static/js/787.3544c18c.chunk.js",
-    "static/media/white.jpg": "/fiducha/static/media/white.1785650efbe63f9258fd.jpg",
-    "static/media/whoWeAre.jpg": "/fiducha/static/media/whoWeAre.002372cd91fa168179fc.jpg",
-    "static/media/white1.jpg": "/fiducha/static/media/white1.0b3dd4cac4acfa70496b.jpg",
-    "static/media/whiteParty.webp": "/fiducha/static/media/whiteParty.d8e2fbc92b1bf1b1e68e.webp",
-    "static/media/qatar.jpg": "/fiducha/static/media/qatar.8f8c03f388b11736da75.jpg",
-    "static/media/photo.jpg": "/fiducha/static/media/photo.bec998606b433833fabc.jpg",
-    "static/media/decor.jpg": "/fiducha/static/media/decor.4defe0ec1a541d862332.jpg",
-    "static/media/images.jpeg": "/fiducha/static/media/images.357e1932268817f20992.jpeg",
-    "static/media/download.jpeg": "/fiducha/static/media/download.51b01ae9ee04cd33bdb8.jpeg",
-    "static/media/download (1).jpeg": "/fiducha/static/media/download (1).b315e7b2a0499b62b17b.jpeg",
-    "index.html": "/fiducha/index.html",
-    "main.315d37a7.css.map": "/fiducha/static/css/main.315d37a7.css.map",
-    "main.f0d30bcd.js.map": "/fiducha/static/js/main.f0d30bcd.js.map",
-    "787.3544c18c.chunk.js.map": "/fiducha/static/js/787.3544c18c.chunk.js.map"
+    "main.css": "/event-planner/static/css/main.2109fb45.css",
+    "main.js": "/event-planner/static/js/main.c2b9c036.js",
+    "static/js/787.3544c18c.chunk.js": "/event-planner/static/js/787.3544c18c.chunk.js",
+    "static/media/white.jpg": "/event-planner/static/media/white.1785650efbe63f9258fd.jpg",
+    "static/media/whoWeAre.jpg": "/event-planner/static/media/whoWeAre.002372cd91fa168179fc.jpg",
+    "static/media/white1.jpg": "/event-planner/static/media/white1.0b3dd4cac4acfa70496b.jpg",
+    "static/media/whiteParty.webp": "/event-planner/static/media/whiteParty.d8e2fbc92b1bf1b1e68e.webp",
+    "static/media/qatar.jpg": "/event-planner/static/media/qatar.8f8c03f388b11736da75.jpg",
+    "static/media/photo.jpg": "/event-planner/static/media/photo.bec998606b433833fabc.jpg",
+    "static/media/decor.jpg": "/event-planner/static/media/decor.4defe0ec1a541d862332.jpg",
+    "static/media/images.jpeg": "/event-planner/static/media/images.357e1932268817f20992.jpeg",
+    "static/media/download.jpeg": "/event-planner/static/media/download.51b01ae9ee04cd33bdb8.jpeg",
+    "static/media/download (1).jpeg": "/event-planner/static/media/download (1).b315e7b2a0499b62b17b.jpeg",
+    "index.html": "/event-planner/index.html",
+    "main.2109fb45.css.map": "/event-planner/static/css/main.2109fb45.css.map",
+    "main.c2b9c036.js.map": "/event-planner/static/js/main.c2b9c036.js.map",
+    "787.3544c18c.chunk.js.map": "/event-planner/static/js/787.3544c18c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.315d37a7.css",
-    "static/js/main.f0d30bcd.js"
+    "static/css/main.2109fb45.css",
+    "static/js/main.c2b9c036.js"
   ]
 }
